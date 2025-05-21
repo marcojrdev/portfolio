@@ -19,6 +19,10 @@
 
 }
 
+.icone {
+    width: 7vw;
+}
+
 #sobre {
     display: flex;
     flex-direction: column;
